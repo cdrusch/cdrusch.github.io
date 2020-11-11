@@ -1,0 +1,30 @@
+body {
+    Background-color:LightCyan;
+    Margin:25px 30px 25px 30px;
+}
+
+selector {
+  property:value;
+}
+
+h1 {
+    font-family:"Arial", Times, serif;
+    text-allign:center;
+}
+
+h2 {
+    font-family:"Arial", Times, serif;
+    text-allign:center;
+}
+
+ul {
+    font-family:"Arial", Verdana, sans-serif;
+}
+
+ol {
+    font-family:"Arial", Verdana, sans-serif;
+}
+
+p {
+    font-family:"Arial", Verdana, sans-serif;
+}
